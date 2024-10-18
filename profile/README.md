@@ -18,7 +18,7 @@ Want to contribute to the project? We’d love your help! Check out our contribu
 
 ### 📚 Useful Resources
 
-Urban Connect Documentation – Everything you need to get started with the platform.
+Urban Connect Documentation – Everything you need to get started with the platform. \n
 Community Guidelines – Learn how to be part of our growing community.
 
 ### 🎉 Fun Fact
